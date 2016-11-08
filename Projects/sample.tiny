@@ -1,0 +1,9 @@
+int s, t ;
+real r, pi ;
+print 2 + 3 * 4 ;
+s = 3 + 4 ;
+t = 6 – 2 ;
+print s * t ^ 2 ;
+print (s + t)*(s – t) ;
+r = 7.0 ; pi = 3.1416
+print 4.0 * pi * r
